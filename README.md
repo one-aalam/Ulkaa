@@ -21,6 +21,12 @@ server
   /pubs - Publish Mongo collections
   /startup - code to run when server starts
 
+
+Modules
+----------
+Authentication: 
+	[alanning:roles](https://github.com/alanning/meteor-roles)
+
 http://meteor.redandivory.com/#/
 
 
