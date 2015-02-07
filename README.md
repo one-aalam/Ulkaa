@@ -21,8 +21,6 @@ server
   /pubs - Publish Mongo collections
   /startup - code to run when server starts
 
-
-http://tech.exponential.io/meteor/building-large-modular-apps-meteor/
 http://meteor.redandivory.com/#/
 
 
