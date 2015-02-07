@@ -26,8 +26,3 @@ Modules
 ----------
 Authentication: 
 	[alanning:roles](https://github.com/alanning/meteor-roles)
-
-http://meteor.redandivory.com/#/
-
-
-http://github.differential.com/meteor-boilerplate/#file-structure
